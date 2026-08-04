@@ -1,16 +1,8 @@
 export const products = {
   jirasoftware: [
     {
-      title: 'EasyProject',
-      link: 'https://www.easyproject.com',
-      hosting: 'Cloud / On Premises',
-      subscription: 'Yes',
-      license: 'Proprietary',
-      marketplace: 'No',
-    },
-    {
-      title: 'EasyRedmine',
-      link: 'https://www.easyredmine.com',
+      title: 'Easy8',
+      link: 'https://www.easy8.com',
       hosting: 'Cloud / On Premises',
       subscription: 'Yes',
       license: 'Proprietary',
